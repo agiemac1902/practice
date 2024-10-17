@@ -25,3 +25,19 @@
 .incorrect {
     background-color: red;
 }
+
+/*HUD*/
+
+#hud {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.hud-prefix {
+    font-size: 2rem;
+    align-items: center;
+}
+
+.hud-main-text {
+    text-align: center;
+}
