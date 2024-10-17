@@ -1,0 +1,19 @@
+.choice-container {
+    display: flex;
+    font-size: 1.8rem;
+    background-color: white;
+    width: 100%;
+    border: 0.1rem solid rgb(0, 126, 126);
+    margin-bottom: 0.5rem;
+}
+
+.choice-prefix {
+    padding: 1.5rem 2.5rem;
+    background-color: rgb(0, 126, 126);
+    color: white;
+}
+
+.choice-description {
+    padding: 1.5rem;
+    width: 100%;
+}
